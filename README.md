@@ -1,1 +1,1 @@
-# First-steps-with-React
+# Get started with React.js course
